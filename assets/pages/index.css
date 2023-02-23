@@ -1,0 +1,32 @@
+.login_popup {
+  position: relative;
+  width: 600px;
+  height: 160px;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
+  z-index: 10001; }
+
+.login_popup span {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+  line-height: 30px;
+  margin-top: 20px; }
+
+.login_popup .icon {
+  background: url("https://assets.html-js.com/images/login.png") no-repeat center center;
+  width: 100%;
+  height: 90px;
+  display: block; }
+
+.login_popup div {
+  margin-top: 30px;
+  color: #666; }
+
+#login_popup {
+  margin: 0 auto; }
+
+#loginArea {
+  display: none; }
