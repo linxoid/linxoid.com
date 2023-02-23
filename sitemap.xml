@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://persona.ourai.ws/about/</loc>
+<loc>https://linxoid.com/about/</loc>
 </url>
 <url>
-<loc>https://persona.ourai.ws/auth/weibo/</loc>
+<loc>https://linxoid.com/categories/</loc>
 </url>
 <url>
-<loc>https://persona.ourai.ws/</loc>
+<loc>https://linxoid.com/explore/</loc>
 </url>
 <url>
-<loc>https://persona.ourai.ws/ourai/</loc>
+<loc>https://linxoid.com/</loc>
+</url>
+<url>
+<loc>https://linxoid.com/ourai/</loc>
+</url>
+<url>
+<loc>https://linxoid.com/shuramaru/</loc>
 </url>
 </urlset>
